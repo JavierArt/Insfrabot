@@ -1,0 +1,11 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+
+procfile
+system.properties
